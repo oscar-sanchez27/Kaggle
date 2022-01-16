@@ -1,4 +1,5 @@
 # KAGGLE 2021-2022 APC
+[Este es un resumen del kaggle, el trabajo completo se encuentra en la carpeta notebook] 
 ### Nom: Óscar Sánchez Lima
 ### Niu: 1527377  
 ### URL DATASET: https://www.kaggle.com/purumalgi/music-genre-classification
